@@ -1,0 +1,13 @@
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.exe
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.deps.json
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.runtimeconfig.json
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.runtimeconfig.dev.json
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.dll
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.pdb
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.csprojAssemblyReference.cache
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.csproj.CoreCompileInputs.cache
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.AssemblyInfoInputs.cache
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.AssemblyInfo.cs
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.dll
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.pdb
+C:\Users\Michael Madden\dotNet\C#\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.genruntimeconfig.cache
